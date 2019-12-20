@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/212734767/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar" sourcepath="C:/Users/212734767/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/b2da9f8444128651758719856de579eacff7f387/gson-2.8.2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
